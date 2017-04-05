@@ -51,7 +51,7 @@ for feature, label in zip(list(X_train), list(y_train)):
             c = 0
             r += 1
         axes[r,c].imshow(feature)
-        axes[r,c].set_title(sign)
+#        axes[r,c].set_title(sign)
         c += 1
     except KeyError:
         pass
