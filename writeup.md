@@ -1,9 +1,4 @@
 # Traffic Sign Recognition  
-
-## Writeup Template
-
-### You can use this file as a template for your writeup if you want to submit it as a markdown file, but feel free to use some other method and submit a pdf if you prefer.
-
 ---
 
 **Build a Traffic Sign Recognition Project**
@@ -21,7 +16,7 @@ The goals / steps of this project are the following:
 
 [image1]: ./report_images/dataset_capture.png "Dataset visualization"
 [image2]: ./report_images/normalization.png "Normalization"
-[image3]: ./report_images/values.jpg "Model during epochs"
+[image3]: ./report_images/values.png "Model during epochs"
 [image4]: ./test_images/atention32.jpg "Traffic Sign 1"
 [image5]: ./test_images/no_vehicles32.jpg "Traffic Sign 2"
 [image6]: ./test_images/road_work32.jpg "Traffic Sign 3"
@@ -32,11 +27,7 @@ The goals / steps of this project are the following:
 ### Here I will consider the [rubric points](https://review.udacity.com/#!/rubrics/481/view) individually and describe how I addressed each point in my implementation.  
 
 ---
-### Writeup / README
-
-#### 1. Provide a Writeup / README that includes all the rubric points and how you addressed each one. You can submit your writeup as markdown or pdf. You can use this template as a guide for writing the report. The submission includes the project code.
-
-You're reading it! and here is a link to my [project code](https://github.com/udacity/CarND-Traffic-Sign-Classifier-Project/blob/master/Traffic_Sign_Classifier.ipynb)
+You're reading it! and here is a link to my [project code](https://github.com/sorny92/CarND-Traffic-Sign-Classifier/blob/master/Traffic_Sign_Classifier.ipynb)
 
 ### Data Set Summary & Exploration
 
