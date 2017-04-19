@@ -1,7 +1,7 @@
 ## Project: Build a Traffic Sign Recognition Program
 [![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)  
 
-##[Here you can find a writeup with the results obtained with the model](https://github.com/sorny92/CarND-Traffic-Sign-Classifier/blob/master/writeup.md)  
+## [Here you can find a writeup with the results obtained with the model](https://github.com/sorny92/CarND-Traffic-Sign-Classifier/blob/master/writeup.md)  
 
 [Access to a copy in html of the Jupiter code](https://github.com/sorny92/CarND-Traffic-Sign-Classifier/blob/master/Report.html)  
 
