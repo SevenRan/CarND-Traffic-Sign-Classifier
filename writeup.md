@@ -109,7 +109,7 @@ My final model results were:
 * validation set accuracy of 0.968 (red line in image3)
 * test set accuracy of 0.946
 
-[alt text][image3]
+![alt text][image3]
 
 I started working with a Lenet-5 architecture. I expected to achieve validation accuracies of 0.90 or higher, but I couldn't get higher than 0.4.
 This was a problem due to a wrong configuration of variables in tensorflow. I forgot to set up a standard deviation of values that achieved low values. This created high parameters that avoided a minimum and underfitting the model.  
