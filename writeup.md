@@ -148,7 +148,7 @@ Here are the results of the prediction:
 | General caution  		| General caution				 				|
 | 3.5 mt prohibited 	| 3.5 mt prohibited    							|
 
-The model was able to correctly guess 4 of the 5 traffic signs, which gives an accuracy of 0.8. The number says my model would be overfitting because in test accuracy I get 0.96, but 5 images are not considered enough for statistical relevance. I would need more images to guess if it is working properly. That's why we have a test dataset.
+The model was able to correctly guess 4 of the 5 traffic signs, which gives an accuracy of 0.8. The number says my model would be overfitting because in test accuracy I get 0.946, but 5 images are not considered enough for statistical relevance. I would need more images to guess if it is working properly. That's why we have a test dataset.
 
 #### 3. Describe how certain the model is when predicting on each of the five new images by looking at the softmax probabilities for each prediction and identify where in your code softmax probabilities were outputted. Provide the top 5 softmax probabilities for each image along with the sign type of each probability. (OPTIONAL: as described in the "Stand Out Suggestions" part of the rubric, visualizations can also be provided such as bar charts)
 
